@@ -29,10 +29,13 @@ The analysis of the election show that:
 - The winner of the election was: 
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-The following image shows code with appropriate variables which produced the winning candidate along with the number of votes and the percentage of the votes won:
+**The following image shows code with appropriate variables which produced the winning candidate along with the number of votes and the percentage of the votes won:**
 
+![Election Code](Resources/Election_Code1.PNG)
 
-The following image shows code with appropriate variables which produced the winning candidate along with the number of votes and the percentage of the votes won:
+**The following image shows code with appropriate variables which produced Denver as the county with the largest turnout of voters:**
+
+![Largest Turnout](Resources/largest_turnout_code.PNG)
 
 
 
@@ -54,6 +57,6 @@ Two examples of how this script can be modified to be used for other elections a
  - Refactor the code to Open and Read files using Python.
  - Add the appropriate Dependencies, Modules, and Packages to allow for the ability to access certain types of files. In this current script, **import csv** was used. 
  
- The following picture shows the final output of the code as displayed in a .txt file:
+ **The following picture shows the final output of the code as displayed in a .txt file:**
  
  ![Final Output](Resources/Final_Output.PNG) 
