@@ -32,6 +32,9 @@ The analysis of the election show that:
 The following image shows code with appropriate variables which produced the winning candidate along with the number of votes and the percentage of the votes won:
 
 
+The following image shows code with appropriate variables which produced the winning candidate along with the number of votes and the percentage of the votes won:
+
+
 
 **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
 A breakdown of county votes is as follows:
@@ -50,3 +53,7 @@ The county with the largest number of votes is Denver
 Two examples of how this script can be modified to be used for other elections are:
  - Refactor the code to Open and Read files using Python.
  - Add the appropriate Dependencies, Modules, and Packages to allow for the ability to access certain types of files. In this current script, **import csv** was used. 
+ 
+ The following picture shows the final output of the code as displayed in a .txt file:
+ 
+ ![Final Output](Resources/Final_Output.PNG) 
